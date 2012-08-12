@@ -1,2 +1,2 @@
-xs-git
+Sync Framework demo
 ======
